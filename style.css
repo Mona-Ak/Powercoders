@@ -1,0 +1,88 @@
+body{
+    margin: 10px;
+    font-family: cursive;
+    background-color: #a59c94ff;
+}
+header{
+    background-color:#f7ced7ff;
+    height: 269px;
+    width: 100%;
+
+}
+
+img{
+    width: 200px;
+    float: left;
+    opacity: 0.8;
+}
+
+header h1{
+    display: inline-block; 
+    font-size: 60px;
+    margin-left:20% ;
+    color: rgb(126, 101, 85);
+}
+
+.favSec{
+    
+    width: 100%;
+}
+
+.favSec h1{
+    color:#ef6079ff;
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+
+.favoriets{
+    text-align: center;
+    border: 2px solid rgb(235, 128, 128);
+    border-radius: 10%;
+    float: left;
+    width: 30%;
+    margin: 1%;
+    height: 300px;
+    background-color:#f7ced7ff;
+    font-style: italic;
+    color:#ef6079ff;
+    
+}
+
+li{
+    list-style-type: none;
+    /* background-color: yellow; */
+    height: 50px;
+    font-size: 20px;
+    margin-right: 27px;
+}
+ul{
+    /* background-color: brown; */
+    height: 200px;
+}
+
+.quoteSec{
+    clear: both;
+    background-image: url(./image/cherry-blossom_42237-39.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    height: 400px;
+}
+
+blockquote{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 150px;
+    color: rgb(38, 43, 37);
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Brush Script MT', cursive;
+
+}
+
+
+
+/* https://images4.alphacoders.com/106/thumb-1920-1061711.jpg */
